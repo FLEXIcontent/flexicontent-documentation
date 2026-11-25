@@ -1,0 +1,54 @@
+{
+  "link.title.Documentation": {
+    "message": "Documentation",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.Community": {
+    "message": "Communauté",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Project": {
+    "message": "Projet",
+    "description": "The title of the footer links column with title=Project in the footer"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduction",
+    "description": "The label of footer link with label=Introduction linking to /docs/intro"
+  },
+  "link.item.label.Installation": {
+    "message": "Installation",
+    "description": "The label of footer link with label=Installation linking to /docs/demarrage/installation"
+  },
+  "link.item.label.Resources": {
+    "message": "Ressources",
+    "description": "The label of footer link with label=Resources linking to /docs/ressources"
+  },
+  "link.item.label.Forum": {
+    "message": "Forum",
+    "description": "The label of footer link with label=Forum linking to https://www.flexicontent.org/forum.html"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/FLEXIcontent/flexicontent-cck"
+  },
+  "link.item.label.Report an issue": {
+    "message": "Signaler un bug",
+    "description": "The label of footer link with label=Report an issue linking to https://github.com/FLEXIcontent/flexicontent-cck/issues"
+  },
+  "link.item.label.Official site": {
+    "message": "Site officiel",
+    "description": "The label of footer link with label=Official site linking to https://www.flexicontent.org/"
+  },
+  "link.item.label.Downloads": {
+    "message": "Téléchargements",
+    "description": "The label of footer link with label=Downloads linking to https://www.flexicontent.org/downloads/latest-version.html"
+  },
+  "link.item.label.Official documentation": {
+    "message": "Documentation officielle",
+    "description": "The label of footer link with label=Official documentation linking to https://flexicontent.org/_documentation_notes/"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 FLEXIcontent. Construit avec Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

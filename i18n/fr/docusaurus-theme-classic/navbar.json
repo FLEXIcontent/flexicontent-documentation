@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "FLEXIcontent",
+    "description": "The title in the navbar"
+  },
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Resources": {
+    "message": "Ressources",
+    "description": "Navbar item with label Resources"
+  },
+  "item.label.Official site": {
+    "message": "Site officiel",
+    "description": "Navbar item with label Official site"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

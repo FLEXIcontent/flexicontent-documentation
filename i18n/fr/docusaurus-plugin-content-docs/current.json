@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Getting started": {
+    "message": "Démarrage",
+    "description": "The label for category 'Getting started' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Key concepts": {
+    "message": "Concepts clés",
+    "description": "The label for category 'Key concepts' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.API": {
+    "message": "API",
+    "description": "The label for category 'API' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Fields": {
+    "message": "Champs",
+    "description": "The label for category 'Fields' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Content types": {
+    "message": "Types de contenu",
+    "description": "The label for category 'Content types' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Categories": {
+    "message": "Catégories",
+    "description": "The label for category 'Categories' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Menu links": {
+    "message": "Liens de menu",
+    "description": "The label for category 'Menu links' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Templates": {
+    "message": "Modèles",
+    "description": "The label for category 'Templates' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Modules": {
+    "message": "Modules",
+    "description": "The label for category 'Modules' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Plugins": {
+    "message": "Plugins",
+    "description": "The label for category 'Plugins' in sidebar 'docs'"
+  }
+}
